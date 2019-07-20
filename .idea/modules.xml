@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/data-bus.iml" filepath="$PROJECT_DIR$/data-bus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus-camel/data-bus-camel.iml" filepath="$PROJECT_DIR$/data-bus-camel/data-bus-camel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus-client/data-bus-client.iml" filepath="$PROJECT_DIR$/data-bus-client/data-bus-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus-common/data-bus-common.iml" filepath="$PROJECT_DIR$/data-bus-common/data-bus-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus-endpoint/data-bus-endpoint.iml" filepath="$PROJECT_DIR$/data-bus-endpoint/data-bus-endpoint.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data-bus-tools/data-bus-tools.iml" filepath="$PROJECT_DIR$/data-bus-tools/data-bus-tools.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: cn.rongcapital.mc2:data-common:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/tools/new_repository/cn/rongcapital/mc2/data-common/1.0.0-SNAPSHOT/data-common-1.0.0-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://D:/tools/new_repository/cn/rongcapital/mc2/data-common/1.0.0-SNAPSHOT/data-common-1.0.0-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://D:/tools/new_repository/cn/rongcapital/mc2/data-common/1.0.0-SNAPSHOT/data-common-1.0.0-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

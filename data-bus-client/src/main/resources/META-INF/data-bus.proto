@@ -1,0 +1,19 @@
+syntax = "proto3";
+ 
+option java_multiple_files = true;
+option java_package = "cn.rongcapital.mc2.data.bus.protobuf";
+option java_outer_classname = "DataBusProto";
+
+service DataBus {
+	rpc pushBehavior(BehaviorMessageRequest) returns (VoidResponse);
+}
+
+message BehaviorMessageRequest {
+	string tenantId = 1;
+	string userId = 2;
+	string message = 3;
+}
+
+message VoidResponse {
+	int32 result = 1;
+}

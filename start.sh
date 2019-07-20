@@ -1,0 +1,1 @@
+java -jar data-bus-camel-1.0.0-SNAPSHOT.jar

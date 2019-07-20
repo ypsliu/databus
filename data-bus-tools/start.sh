@@ -1,0 +1,1 @@
+java -Dfile.encoding=UTF-8 -jar data-bus-tools-1.0.0-SNAPSHOT.jar

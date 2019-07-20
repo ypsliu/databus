@@ -1,0 +1,87 @@
+[
+    {
+        "bid": "1",
+        "name": "浏览商品",
+        "status": "BROWSE_GOODS"
+    },
+    {
+        "bid": "2",
+        "name": "添加购物车",
+        "status": "ADD_SHOPPING_CART"
+    },
+    {
+        "bid": "3",
+        "name": "没有创建支付宝交易",
+        "status": "TRADE_NO_CREATE_PAY"
+    },
+    {
+        "bid": "4",
+        "name": "下单、等待买家付款",
+        "status": "WAIT_BUYER_PAY"
+    },
+    {
+        "bid": "5",
+        "name": "卖家部分发货",
+        "status": "SELLER_CONSIGNED_PART"
+    },
+    {
+        "bid": "6",
+        "name": "等待卖家发货,即:买家已付款",
+        "status": "WAIT_SELLER_SEND_GOODS"
+    },
+    {
+        "bid": "7",
+        "name": "等待买家确认收货,即:卖家已发货",
+        "status": "WAIT_BUYER_CONFIRM_GOODS"
+    },
+    {
+        "bid": "8",
+        "name": "买家已签收,货到付款专用",
+        "status": "TRADE_BUYER_SIGNED"
+    },
+    {
+        "bid": "9",
+        "name": "交易成功",
+        "status": "TRADE_FINISHED"
+    },
+    {
+        "bid": "10",
+        "name": "付款以后用户退款成功，交易自动关闭",
+        "status": "TRADE_CLOSED"
+    },
+    {
+        "bid": "11",
+        "name": "付款以前，卖家或买家主动关闭交易",
+        "status": "TRADE_CLOSED_BY_TAOBAO"
+    },
+    {
+        "bid": "12",
+        "name": "国际信用卡支付付款确认中",
+        "status": "PAY_PENDING"
+    },
+    {
+        "bid": "13",
+        "name": "0元购合约中",
+        "status": "WAIT_PRE_AUTH_CONFIRM"
+    },
+    {
+        "bid": "14",
+        "name": "评价商品",
+        "status": "BUYER_APPRAISE_GOODS"
+    },
+    {
+        "bid": "15",
+        "name": "申请发票",
+        "status": "BUYER_APPLY_INVOICE"
+    },
+    {
+        "bid": "16",
+        "name": "交易完成后申请退款",
+        "status": "BUYER_REFUND"
+    },
+    {
+        "bid": "17",
+        "name": "交易完成后申请退货",
+        "status": "BUYER_RETURN_GOODS"
+    }
+]
